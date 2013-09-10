@@ -1,5 +1,5 @@
 {
         "strategy": "hanaxs",
-	"host": "dshell.sapdevcenter.com:30015",
+	"host": "ec2-54-212-175-205.us-west-2.compute.amazonaws.com:30015",
 	"root": "foo"
 }
